@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+.Header{
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+}
+.header_profile{
+    width: 50px;
+    height: 50px;
+    border:1px solid black;
+    border-radius: 80px;
+}
+.container{
+    display: flex
+    justify-content
+}
